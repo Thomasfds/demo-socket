@@ -1,0 +1,3 @@
+C:\Users\thoma\source\repos\CrunchyTest\CrunchyTest\obj\Debug\CrunchyTest.njsproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\CrunchyTest\CrunchyTest\obj\Debug\CrunchyTest.njsproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\CrunchyTest\CrunchyTest\bin\Microsoft.NodejsTools.WebRole.dll
